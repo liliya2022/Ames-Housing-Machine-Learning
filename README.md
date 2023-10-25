@@ -4,7 +4,8 @@ Machine Learning Project for Kaggle Competition
 
 *By Liliya Lopez*
 
-<img src='https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png'/>
+![house](https://github.com/liliya2022/Ames-Housing-Machine-Learning/assets/103074902/215ee576-1c66-4060-9c50-b21a6894f315)
+
 
 Ames Housing Machine Learning Project for Kaggle Competiton Includes 5 files:
 
